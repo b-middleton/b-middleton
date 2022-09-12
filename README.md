@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @b-middleton
 - 🌱 I’m currently learning R and Python
-- 💞️ I’m looking to collaborate on ML / statistical analysis projects in envrionmental / ecological fields
+- 💞️ I’m looking to collaborate on ML / statistical analysis projects in environmental / ecological fields
 - 📫 How to reach me @b-middleton on GitHub and StackOverflow
 
 <!---
